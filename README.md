@@ -17,8 +17,8 @@ Ao final do processamento, qual será o valor da variável SOMA?
 3- Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 **IMPORTANTE:**
-a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+1- Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+2- Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 ### 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 1- SP – R$67.836,43
