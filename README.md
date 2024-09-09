@@ -12,20 +12,20 @@ Ao final do processamento, qual será o valor da variável SOMA?
 **IMPORTANTE:** Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 ### 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
-1- O menor valor de faturamento ocorrido em um dia do mês;
-2- O maior valor de faturamento ocorrido em um dia do mês;
-3- Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
+1. O menor valor de faturamento ocorrido em um dia do mês;
+2. O maior valor de faturamento ocorrido em um dia do mês;
+3. Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 **IMPORTANTE:**
-1- Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-2- Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+1. Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+2. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 ### 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
-1- SP – R$67.836,43
-2- RJ – R$36.678,66
-3- MG – R$29.229,88
-4- ES – R$27.165,48
-5- Outros – R$19.849,53
+1. SP – R$67.836,43
+2. RJ – R$36.678,66
+3. MG – R$29.229,88
+4. ES – R$27.165,48
+5. Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 
